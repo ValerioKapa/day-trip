@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">290807608897-g5mp0mttnqar1ch3m0gu75u0vnugrssc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">290807608897</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhG1VpH8iQktGdJV6tsRZACLsMOo5l--o</string>
+    <string name="google_app_id" translatable="false">1:290807608897:android:ab17d06d92449439b6b8c0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhG1VpH8iQktGdJV6tsRZACLsMOo5l--o</string>
+    <string name="google_storage_bucket" translatable="false">daytrip-b8f6c.appspot.com</string>
+    <string name="project_id" translatable="false">daytrip-b8f6c</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DayTrip</string>
+    <string name="edit_text">Complain</string>
+    <string name="button_send"></string>
+</resources>
